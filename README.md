@@ -1,12 +1,12 @@
-## DSJ04: React Podcast App — Search, Sort, Filter & Pagination
+# DSJ04: React Podcast App — Search, Sort, Filter & Pagination
 
 ## 📌 Overview
 
 This project is a React-based podcast browsing application designed to provide users with a seamless, dynamic, and interactive experience. It allows users to search, sort, filter, and paginate through a list of podcast shows fetched from an external API.
 
-## 🚀 Features
+# 🚀 Features
 
-# 🔍 Live Search
+## 🔍 Live Search
 
 - Search podcasts by matching any part of the title.
 
@@ -14,7 +14,7 @@ This project is a React-based podcast browsing application designed to provide u
 
 - Search integrates with current sorting, filtering, and pagination without resetting them.
 
-# ↕️ Sorting
+## ↕️ Sorting
 
 Sort podcasts based on:
 
@@ -26,7 +26,7 @@ Sort podcasts based on:
 
 Sorting works alongside all other UI controls and does not reset existing state.
 
-# 🎧 Genre Filtering
+## 🎧 Genre Filtering
 
 - Filter podcasts by one or more genres.
 
@@ -34,7 +34,7 @@ Sorting works alongside all other UI controls and does not reset existing state.
 
 - Filters remain applied across pages and interactions.
 
-# 📄 Pagination
+## 📄 Pagination
 
 Display podcasts in manageable chunks.
 
@@ -44,7 +44,7 @@ Support for:
 
 - Pagination respects all active search, sort, and filter selections.
 
-# ⚙️ State Synchronisation
+## ⚙️ State Synchronisation
 
 Clean, centralised state using:
 
@@ -56,7 +56,7 @@ OR a state management library (optional)
 
 All UI controls remain fully in sync at all times.
 
-# 🧹 Clean Code & Documentation
+## 🧹 Clean Code & Documentation
 
 Modular, reusable components.
 
